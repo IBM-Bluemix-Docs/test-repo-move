@@ -1,1 +1,1 @@
-# test-repo-move
+# test-repo-move public
